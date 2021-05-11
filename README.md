@@ -1,5 +1,23 @@
 # Work Day Scheduler
 
+## Purpose
+A website that offers a daily calendar
+
+## Built With
+* HTML
+* CSS
+* JavaScript
+* jQuery
+
+## Mock-Up
+
+The following image shows the web application's appearance and functionality:
+
+![workday scheduler demo](./workdayscheduler.png)
+
+## Website
+https://chuckrfields.github.io/workday-scheduler/
+
 ## User Story
 - AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
@@ -20,3 +38,7 @@ THEN the text for that event is saved in local storage
 - WHEN I refresh the page
 THEN the saved events persist
 
+## Contribution
+Made with ❤️ by Chuck Fields
+
+### ©️2021 
